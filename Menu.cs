@@ -18,7 +18,7 @@ namespace Evaluacion_T2
                 Console.WriteLine("      [3]- GESTIONAR CARGA             ");
                 Console.WriteLine("      [4]- SALIR DEL PROGRAMA          ");
                 Console.WriteLine("---------------------------------------");
-                Console.WriteLine("Ingrese una de las opciones del 1 - 4: ");
+                Console.Write("Ingrese una de las opciones del 1 - 4: ");
 
                 numero = Convert.ToInt32(Console.ReadLine());
 

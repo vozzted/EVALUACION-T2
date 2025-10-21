@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\UPN\\Desktop\\Nueva carpeta\\EVALUACION-T2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2172B639-D4E2-4A3E-8CEA-7AFFE666F96C}|Evaluacion_T2.csproj|c:\\users\\upn\\desktop\\nueva carpeta\\evaluacion-t2\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2172B639-D4E2-4A3E-8CEA-7AFFE666F96C}|Evaluacion_T2.csproj|solutionrelative:menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2172B639-D4E2-4A3E-8CEA-7AFFE666F96C}|Evaluacion_T2.csproj|C:\\Users\\UPN\\Desktop\\Nueva carpeta\\EVALUACION-T2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2172B639-D4E2-4A3E-8CEA-7AFFE666F96C}|Evaluacion_T2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2172B639-D4E2-4A3E-8CEA-7AFFE666F96C}|Evaluacion_T2.csproj|c:\\users\\upn\\desktop\\nueva carpeta\\evaluacion-t2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2172B639-D4E2-4A3E-8CEA-7AFFE666F96C}|Evaluacion_T2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2172B639-D4E2-4A3E-8CEA-7AFFE666F96C}|Evaluacion_T2.csproj|c:\\users\\upn\\desktop\\nueva carpeta\\evaluacion-t2\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2172B639-D4E2-4A3E-8CEA-7AFFE666F96C}|Evaluacion_T2.csproj|solutionrelative:menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,30 +18,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\Nueva carpeta\\EVALUACION-T2\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\UPN\\Desktop\\Nueva carpeta\\EVALUACION-T2\\Program.cs*",
-              "RelativeToolTip": "Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAQAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\UPN\\Desktop\\Nueva carpeta\\EVALUACION-T2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwCQAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-21T16:25:42.398Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Menu.cs",
               "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\Nueva carpeta\\EVALUACION-T2\\Menu.cs",
               "RelativeDocumentMoniker": "Menu.cs",
               "ToolTip": "C:\\Users\\UPN\\Desktop\\Nueva carpeta\\EVALUACION-T2\\Menu.cs*",
               "RelativeToolTip": "Menu.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwBQAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-21T16:39:05.243Z",
               "EditorCaption": ""
