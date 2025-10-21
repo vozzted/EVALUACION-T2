@@ -1,0 +1,2 @@
+C:\Users\UPN\Desktop\Nueva carpeta\EVALUACION-T2\obj\Debug\Evaluacion_T2.csproj.AssemblyReference.cache
+C:\Users\UPN\Desktop\Nueva carpeta\EVALUACION-T2\obj\Debug\Evaluacion_T2.csproj.CoreCompileInputs.cache
